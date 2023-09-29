@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Duel_Two", "The_Duel_Two\The_Duel_Two.csproj", "{8D9A70D8-E5BF-4923-B2FC-5EC6EDD0FF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9A70D8-E5BF-4923-B2FC-5EC6EDD0FF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9A70D8-E5BF-4923-B2FC-5EC6EDD0FF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9A70D8-E5BF-4923-B2FC-5EC6EDD0FF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9A70D8-E5BF-4923-B2FC-5EC6EDD0FF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6530F919-D9E9-457F-9BDD-72DDB393AAA1}
+	EndGlobalSection
+EndGlobal
